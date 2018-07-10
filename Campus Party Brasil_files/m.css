@@ -1,0 +1,172 @@
+
+/*.footer-small-links {
+    padding-top: 0px !important;
+    padding-bottom: 5px !important;
+    color: #EBCB2D !important;
+    margin-top: 100px !important;
+}
+.jx-evont-footer.jx-footer-1 {
+    padding: 40px 0 80px 0;
+}*/
+
+.footer-small-links .container a {
+  position: fixed;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    position: relative;
+    top: 380px;
+    bottom: 0 !important;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-social ul li.scampusero{
+    padding: 10px !important;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-social ul li.scampusero:hover{
+    border:1px solid #fff !important;
+}
+
+.jx-evont-footer.jx-footer-1 .jx-evont-social ul li.scampusero a{
+background:url(http://campus-party.org/wp-content/uploads/2017/11/campuseroy.png) no-repeat;
+background-size:100% auto;
+width:25px;
+height:21px;
+display:inline-block;
+}
+.jx-evont-footer.jx-footer-1 .jx-evont-social ul li.scampusero:hover a{
+    background: url(http://campus-party.org/wp-content/themes/cptheme/assets/images/icon_campusero_white.png) no-repeat;
+    background-size:100% auto;
+}
+
+.jx-evont-plan-price span {
+  display: none !important;
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  /*#wrapCount {
+    position: relative;
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+  }*/
+
+  div.vc_column-inner.vc_custom_1511942690068 {
+    padding-left: 0px !important;
+  }
+  div.vc_column-inner.vc_custom_1512573667295 {
+    padding-right: 0px !important;
+  }
+
+  #countD ul li{
+    padding: 5px 5px 5px 5px;
+    font-size: 40px;
+    line-height: 30px;
+  }
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media all and (max-width: 575px)  {
+  #wrapCount {
+    position: relative;
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+  }
+  .tp-parallax-wrap {
+    /*left: 10px !important;
+    right: 10px !important;*/
+  }
+  #countD {
+    position: relative;
+    margin: 0 auto;
+    min-width: 100% !important;
+  }
+  #countD ul {
+    position: relative;
+    margin: 0 auto;
+  }
+
+  #countD ul li{
+    padding: 15px 15px 5px 15px;
+    font-size: 50px;
+    line-height: 40px;
+  }
+
+  div.vc_column-inner.vc_custom_1511942690068 {
+    padding-left: 0px !important;
+  }
+  div.vc_column-inner.vc_custom_1512573667295 {
+    padding-right: 0px !important;
+  }
+  .vc_custom_1512458824367 {
+    padding-top: 5px !important;
+    padding-bottom: 20px !important;
+    margin-top: 5px !important;
+  }
+  .grid-item {
+    width: 100% !important;
+  }
+  div.pp_pic_holder.light_square {
+    display: block !important;
+    left: 0px !important;
+    width: 100% !important;
+  }
+  div.pp_content {
+    width: 100% !important;
+    height: 290px !important;
+  }
+  div.pp_details {
+    width: 100% !important;
+  }
+  div.ytp-cued-thumbnail-overlay {
+    height: 290px !important;
+  }
+  div#pp_full_res iframe {
+    height: 230px !important;
+  }
+  .footer-small-links .container a {
+    top: 450px;
+  }
+  div.wpb_wrapper {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+}
+
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+}
+
+/* Galaxy S3 ----------- */
+@media only screen and (-webkit-device-pixel-ratio: 2) {
+  #wrapCount {
+    position: relative;
+    width: 100% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+  }
+
+}
+
+
+/* header */

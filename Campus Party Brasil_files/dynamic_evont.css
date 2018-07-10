@@ -1,0 +1,102 @@
+
+
+/* ------------------------------------------------------------------------ */
+/* Yellow Color
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-hero-title h2 , .jx_evont_countdown ul li .count-text , .jx_evont_countdown ul li .count-text , .programs_item.style-2:hover .time , .jx-evont-blog-section .readmore a:hover , .jx-evont-tagline-2 .jx-event-tagline-button:hover , .jx-evont-blog-section .readmore a:hover , .jx-evont-video-pop h2 , .jx-evont-tagline-5 .jx-evont-tagline-title , .jx-evont-common_page_header.jx-evont-titlebar-application .title b , .jx_evont_countdown ul li .count-text , .jx-evont-common_page_header.hero-4 .title span , .jx-evont-common_page_header.hero-3 .title span , .jx-evont-common_page_header.hero-2 .title span , .programs-section.style-4 .programs_item .time {
+	color: #0099ff !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Yellow Background
+/* ------------------------------------------------------------------------ */
+
+
+.jx-evont-title-1 h1 , .jx-evont-mainmenu .submenu li:hover > a , .jx-evont-contactmap-section .contactDetails , .jx-evont-pagetitle h1 , .programs_item:hover .right-side , .jx-evont-portfolio-hover i , .mainBtn:hover,.jx-evont-blog-section .jx-evont-blog-date , .jx-evont-blog-section .readmore a , .jx-evont-tagline-2 .jx-event-tagline-button , .jx-evont-blog-section .readmore a , .jx-month-small .event-title , .jx-event-date , .jx-evont-tagline-4 .jx-event-tagline-button , .jx-evont-horizontal-timeline ol li .selected .time-date , .jx-evont-video-pop a , .jx-contact-form-7-submit input[type="submit"] , .jx-evont-small-description .jx-event-description-button a , .jx-evont-blog-section.style-3 .section-title , .jx-evont-tagline-5 .jx-event-tagline-button , .jx-evont-action-box , .jx-evont-header.jx-header-5 .contact-popup , .jx-evont-footer.jx-footer-4 .jx-evont-footer-subscribe .btn-default:hover , .jx-evont-header.jx-header-5 .jx-evont-mainmenu > li a:hover , .jx-evont-action-box::before ,.jx-evont-speakers-area .jx-evont-speaker-item, .jx-evont-action-box .action_box-inner::before
+ , .jx-evont-common_page_header.jx-evont-titlebar-application .accelerator .button , .jx-evont-common_page_header.jx-evont-titlebar-application .top , .jx-evont-header.jx-header-6 .jx-evont-mainmenu > li a:hover , .jx-evont-common_page_header.hero-4 .hero-right-content .date , .programs-section.style-5 ul li.active > a , .programs-section.style-5 ul li:hover > a , .jx-evont-common_page_header.hero-2 .hero-left-content .date , .jx-evont-common_page_header.hero-3 .event-list li:hover , #cd-menu-trigger , #cd-lateral-nav a.current , .nav-tabs > li.active > a , .nav-tabs > li.open > a, .nav-tabs > li:hover > a , .nav-tabs.nav-justified > .active > a:focus 
+ {
+	background: #0099ff !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Yellow Border Color
+/* ------------------------------------------------------------------------ */
+
+
+.jx-evont-speakers-area.style-c .jx-evont-speaker-item , .jx-evont-common_page_header.jx-evont-titlebar-application .accelerator .content , .jx-evont-plan-section.without-bg .plan-column , .jx-evont-plan-section.without-bg .standard-column , .programs-section.style-4 .programs_item img ,  .jx-evont-plan-section.without-bg .standard-column
+{
+	border-color: #0099ff !important;
+}
+
+.programs-section.style-5 ul li.active::after , .programs-section.style-4 ul li.active::after {
+	border-color: #0099ff transparent !important;
+}
+
+.jx-evont-title-1 h1 , .jx-evont-contactmap-section h2 , .jx-evont-contactmap-section p , .jx-evont-contactmap-section h3 , .jx-evont-header.jx-header-5 .jx-evont-mainmenu > li a:hover , .jx-evont-header.jx-header-5 .contact-popup , .jx-evont-header.jx-header-5 .contact-popup a , .jx-evont-header.jx-header-6 .jx-evont-mainmenu > li a:hover,.jx-evont-common_page_header.jx-evont-titlebar-application .accelerator .button , #cd-menu-trigger  {
+	color: #000000 !important;
+}
+
+
+.jx-evont-contactmap-section hr {
+	background: #000000 !important;
+}
+
+.jx-evont-contactmap-section .more_info {
+    border: solid 2px #000000 !important;
+    color: #000000 !important;
+ }
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Color
+/* ------------------------------------------------------------------------ */
+
+.jx-venue-1 .jx-venue-item .title a:hover , .jx-evont-tagline-2 .jx-evont-tagline-title , .jx-evont-tagline-2 .jx-event-tagline-button , .jx-evont-tagline-section .jx-evont-heading .number , .jx-evont-blog-section h3 a:hover , .widget ul li a:hover , .jx-evont-contact-form button:hover , .jx-evont-action-box .action_box-button.no-bg , .jx-evont-plan-section.without-bg .standard-column , .jx-evont-plan-section.without-bg .standard-column h3
+{
+	color: #e82092 !important;
+}
+
+.nav-tabs > li > a {
+	color: #e82092;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Background
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-contact-address .mainBtn , .jx-evont-get-updates .btn-default , .jx-evont-ticket-from form , .standard-column , .widget .widget_tag_cloud a:hover , .jx-evont-pagination .page-numbers.current , .jx-evont-pagination .page-numbers:hover , .jx-evont-contact-form button , .jx-evont-speaker-item:hover , .image-effect.effect-goliath , .programs-section.evont-agenda-3 .left-side , .jx-evont-action-box .action_box-button , .jx-evont-footer.jx-footer-4 .jx-evont-footer-subscribe .btn-default , .jx-evont-plan-section.without-bg .standard-column hr 
+{
+	background: #e82092 !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Background Color RGB
+/* ------------------------------------------------------------------------ */
+
+.jx-evont-speakers-area .overlay , .jx-evont-teammember .overlay
+{
+	background: rgba(232, 32, 146, 0.90) !important;
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* Pink Border
+/* ------------------------------------------------------------------------ */
+
+.nav-tabs > li > a , .jx-evont-tagline-2 .jx-event-tagline-button , .jx-evont-speaker-item:hover , .jx-evont-action-box .action_box-button , .jx-evont-action-box .action_box-button.no-bg
+{
+	border-color: #e82092 !important;
+}
+
+
+

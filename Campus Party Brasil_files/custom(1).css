@@ -1,0 +1,298 @@
+.navbar-brand>img.logo_sticky, .navbar-brand>img.logo_standard {width:250px !important;}
+header.fixed .navbar-fixed-top .navbar-brand>img {width:110px !important;}
+
+.home header.fixed .navbar-fixed-top .navbar-brand.standard-logo {display:none !important;}
+.home header.fixed .navbar-fixed-top .navbar-brand.retina-logo {display:block !important; padding-top:15px !important;}
+
+body:not(.home) header {margin-bottom:20px;}
+body:not(.home) header .navbar-fixed-top .navbar-brand.standard-logo {display:none !important;}
+body:not(.home) header .navbar-fixed-top .navbar-brand.retina-logo {width:110px !important; padding-top:15px !important; display:block !important;}
+
+.jx-evont-header.jx-header-1.jx-evont-sticky.fixed .jx-evont-mainmenu > li, 
+body:not(.home) .jx-evont-header.jx-header-1.jx-evont-sticky .jx-evont-mainmenu > li {padding-top:20px !important;}
+
+
+white {color:#fff;}
+
+.jx-evont-testimonial-details i{
+    display:none;
+}
+
+.jx-evont-testimonials-1 .name{
+    clear:both;
+}
+
+input[name="subscribe"]{
+    border:1px solid #fff !important;
+}
+
+.jx-evont-testimonials-1 .description{
+    text-transform:none;
+        padding: 10px 0px 5px;
+}
+
+.jx-evont-testimonials-1 .col-sm-6{
+    margin-bottom:30px;
+}
+
+.customPortfolio .jx-evont-portfolio-hoverlayer {
+    background: rgba(240, 191, 46, 1) !important;
+}
+
+#yellowPortfolio .customPortfolio .jx-evont-portfolio-hoverlayer{
+    background: rgba(237, 237, 237, 1) !important;
+}
+
+.customPortfolio .grid-item .jx-evont-portfolio-hoverlayer img{
+    width:auto;
+}
+
+.customPortfolio .jx-evont-portfolio-grid.grey .grid-item .jx-evont-portfolio-plus-hover img{
+    -webkit-filter: none;
+    filter: none;
+}
+
+.customPortfolio .jx-evont-portfolio-hover {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin-left: 0px;
+    margin-top: -30px;
+    width:100%;
+    transition: all 0.4s ease-out;
+    text-align:center;
+   
+}
+
+.customPortfolio .jx-evont-portfolio-hover a {
+
+ 
+}
+
+
+.bhoverscale h1 { transition: all .2s ease-in-out; }
+
+.bhoverscale h1:hover{ transform: scale(1.3); }
+
+.jx-evont-testimonials-1 .jx-evont-testimonial-details{
+    height:auto;
+}
+
+.navbar-brand>img.logo_normal{
+    width:300px;
+}
+
+.navbar-brand>img.logo_sticky,
+.navbar-brand>img.logo_standard{
+    width:110px;   
+    margin-left:11px;
+}
+
+.jx-evont-header.jx-header-1.jx-evont-sticky.fixed .navbar-brand,
+body:not(.home) .jx-evont-header.jx-header-1.jx-evont-sticky .navbar-brand{
+    padding:9px 0px 0px 0px;
+}
+
+.jx-evont-header.jx-header-1.jx-evont-sticky.fixed .jx-evont-mainmenu,
+body:not(.home) .jx-evont-header.jx-header-1.jx-evont-sticky .jx-evont-mainmenu{
+    height:53px;
+}
+
+.jx-evont-header.jx-header-1.jx-evont-sticky.fixed .jx-evont-mainmenu > li,
+body:not(.home) .jx-evont-header.jx-header-1.jx-evont-sticky .jx-evont-mainmenu > li{
+    padding-top: 10px;
+}
+
+.jx-evont-mainmenu{
+    margin-right:0px;
+}
+
+a.rev-btn:hover{
+    font-weight:900;
+}
+
+.slidercols h1{
+   text-align:center;
+}
+.slidercols h1 span{
+margin-left: auto;
+  margin-right: auto;
+}
+
+.slider_col_1 .vc_column-inner:hover{
+    background-image: none !important;
+    background-color:#d52081 ;
+    padding-top: 54px !important;
+    padding-bottom: 50px !important;
+}
+
+.slider_col_2 .vc_column-inner:hover{
+    background-image: none !important;
+    background-color:#f1c107;
+padding-top: 54px !important;
+    padding-bottom: 50px !important;
+}
+
+.slider_col_3 .vc_column-inner:hover{
+    background-image: none !important;
+    background-color: #0099ff;
+padding-top: 54px !important;
+    padding-bottom: 50px !important;
+}
+
+
+.button-community:hover {background-color:#e37020;}
+
+div.pp_overlay{
+    background: rgba(51, 172, 255, 0.9);
+}
+
+/*****************************************/
+
+#protagonisti .vc_column_container .vc_column-inner{
+    background-image:none !important;
+    background-size:100% auto !important;
+}
+
+#protagonisti .vc_column_container .vc_column-inner:hover .wpb_wrapper{
+    visibility: hidden;
+}
+
+#protagonisti .vc_column_container:nth-child(1) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/government.jpg) !important;
+}
+
+#protagonisti .vc_column_container:nth-child(2) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/company.jpg) !important;
+}
+
+#protagonisti .vc_column_container:nth-child(3) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/press.jpg) !important;
+}
+
+#protagonisti #protagonistiRow2 .vc_column_container:nth-child(1) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/university.jpg) !important;
+}
+
+#protagonisti #protagonistiRow2 .vc_column_container:nth-child(2) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/community.jpg) !important;
+}
+
+#protagonisti #protagonistiRow2 .vc_column_container:nth-child(3) .vc_column-inner:hover{
+     background-image: url(/wp-content/uploads/sites/28/2017/11/campusero.jpg) !important;
+}
+
+/****************************************/
+
+#tuttoquesto .vc_column_container .wpb_content_element h2{
+    display:none;
+    height: 160px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    font-size: 21px !important;
+    padding-top: 20px;
+    font-weight: 900 !important;
+    line-height: 24px !important;
+    word-spacing:9999px;
+}
+
+#tuttoquesto .vc_column_container .wpb_content_element:hover img{
+    display:none;
+}
+
+#tuttoquesto .vc_column_container .wpb_content_element:hover h2{
+    display:flex;
+}
+
+#tuttoquesto .vc_column_container:nth-child(1) .wpb_content_element h2{
+    color:#efbf00;
+}
+
+#tuttoquesto .vc_column_container:nth-child(2) .wpb_content_element h2{
+    color:#1d2c6b;
+}
+
+#tuttoquesto .vc_column_container:nth-child(3) .wpb_content_element h2{
+    color:#eef8ff;
+}
+
+#tuttoquesto .vc_column_container:nth-child(4) .wpb_content_element h2{
+    color:#0097ff;
+}
+
+#tuttoquesto .vc_column_container:nth-child(5) .wpb_content_element h2{
+    color:#0097ff;
+}
+
+#tuttoquesto .vc_column_container:nth-child(6) .wpb_content_element h2{
+    color:#eeb400;
+}
+.portfolio_title {
+    color:#ffffff;
+    text-transform: uppercase;
+    padding:0 0 20px 0;
+    text-align:left;
+    margin:0 0 0 10px;
+    background:url(/wp-content/uploads/sites/28/2017/11/bg-line2.png) left no-repeat;
+    font-size:28px
+}
+
+.buy a {background-color:#e82194; padding:8px 10px; color:#fff}
+
+.five-columns.vc_row .vc_col-sm-2 { float: left; width: 18.8%; padding: 0; margin-right: 1.5%; min-height: 0; }
+.five-columns.vc_row .vc_col-sm-2:nth-last-child(2) {
+margin-right: 0;
+}
+
+.test123{
+    
+}
+
+.page div.vc_custom_heading {line-height:1.1;}
+.page div.vc_custom_heading:nth-child(1n) {padding:10px 5% !important; margin:0px 20% !important;}
+.page div.vc_custom_heading:nth-child(2n) {padding:10px 5% !important; margin:0px 10% !important;}
+
+/* Tabs */
+.vc_tta-tabs {margin-left:5% !important; margin-right:5% !important;}
+.vc_tta-panels-container .vc_tta-panel-body table tbody tr td {width:auto !important; padding:5px 10px; font-size:0.9rem; text-align:left;}
+.vc_tta-panels-container .vc_tta-panel-body table tbody tr td:first-of-type {font-weight:700;}
+.vc_tta-panels-container .vc_tta-panel-body table tbody tr:first-of-type td {font-size:1rem; font-weight:700; color:#1570b8;}
+.vc_tta-panels-container .vc_tta-panel-body table tbody tr td a {color:#1570b8;}
+/* End Tabs */
+
+@media screen and (max-width:800px)
+{
+    .page div.vc_custom_heading:nth-child(1n) {padding:10px 5% !important; margin:0px 10% !important;}
+    .page div.vc_custom_heading:nth-child(2n) {padding:10px 5% !important; margin:0px 5% !important;}
+
+    .vc_tta-panels-container .wpb_wrapper {width:100%; padding-bottom:30px; overflow:auto;}
+    .vc_tta-panels-container .vc_tta-panel-body table {min-width:600px !important; white-space:nowrap;}
+}
+
+@media screen and (max-width:480px)
+{
+    
+}
+
+@media screen and (max-width:375px)
+{
+    .page div.vc_custom_heading:nth-child(1n), 
+    .page div.vc_custom_heading:nth-child(2n) {font-size:1.2rem !important;}
+}
+
+.jx-evont-mainmenu li .submenu a {
+    background: #fff;
+    color: #333;
+    padding: 9px 20px;
+    display: block;
+    float: none;
+    font-weight: 400;
+}
+
+.jx-evont-mainmenu > li.no-mega > .submenu{
+ top:50px;   
+}
